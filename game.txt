@@ -1,0 +1,12 @@
+Guessing Game!
+Guess a number between 1 and 10
+You have 3 attempts
+attempt 1/3: Enter your guess
+2
+Too high!
+attempt 2/3: Enter your guess
+3
+Too high!
+attempt 3/3: Enter your guess
+1
+Correct
